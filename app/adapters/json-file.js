@@ -1,0 +1,1 @@
+export { default } from 'store-adapters/adapters/json-file';

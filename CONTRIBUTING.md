@@ -3,7 +3,7 @@
 ## Installation
 
 * `git clone <repository-url>`
-* `cd store-local-storage`
+* `cd store-adapters`
 * `npm install`
 
 ## Linting
